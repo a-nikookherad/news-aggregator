@@ -8,7 +8,7 @@ Alternative installation is possible without local dependencies relying on [Dock
 
 Clone the repository
 
-    git clone https://github.com/amini65/news-aggregator.git
+    git clone https://github.com/a-nikookherad/news-aggregator.git
 
 ### Install
 
